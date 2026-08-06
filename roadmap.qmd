@@ -1,0 +1,79 @@
+---
+title: "Roadmap"
+subtitle: "From workshop outcomes to publications and funded research"
+---
+
+[Coordinated 12-month plan]{.eyebrow}
+
+The plan below reflects a collective commitment across all working groups. It is designed to maintain momentum, produce early visible outputs, and position the collaboration for competitive external funding within twelve months. Each phase builds on the previous one — delays in Phase I cascade.
+
+::: {.phases}
+- ::: {.when}
+  MONTHS 0–3
+  :::
+  ::: {}
+  ### Phase I — Organise and consolidate
+
+  Build the shared infrastructure — data, code, communication, sub-team structure — that makes everything else possible. Phase I outputs may be invisible externally but are essential.
+
+  - Create a public website and shared cloud infrastructure for data, references, model code, and documentation accessible to all participants, with links to Beescape, Beespatial, and BEEPOP.
+  - Gloria DeGrandi-Hoffman shares multi-year colony measurement data — frame counts, *Varroa* levels, pollen data, virus data — organised with corresponding publications.
+  - Julia Fine evaluates feasibility of sharing the in-hive sensor dataset with the broader group, coordinating with Pierre Lau on logistics.
+  - Yun Kang and the Group 1 team produce a summary of all available datasets: variables measured, temporal resolution, colony counts, geographic coverage, format.
+  - Define sub-teams around the six priority areas, with leads, communication schedules, and milestones.
+  - Conduct a power analysis to determine sample sizes and measurement frequency for a future large-scale monitoring study.
+  - Schedule monthly focused virtual sessions per sub-team.
+  :::
+
+- ::: {.when}
+  MONTHS 3–6
+  :::
+  ::: {}
+  ### Phase II — Pilot studies and early manuscripts
+
+  Produce visible early outputs that demonstrate the collaboration is working, attract additional collaborators, and provide preliminary results for competitive grant applications. Momentum matters as much as perfection at this stage.
+
+  - **Workshop perspective article.** Define the mathematical agenda for pollinator research, situate it within complex systems biology, and make the case for sustained interdisciplinary investment. Target a broad-audience venue.
+  - **Pilot early warning study.** Time series, correlation, and clustering analyses on the in-hive sensor dataset to identify acoustic and thermal precursors to decline.
+  - **Climate sensitivity paper.** Temperature-dependent and stochastic colony models incorporating extreme weather impacts.
+  - **Preliminary optimisation paper.** An ODE-based optimal control model for miticide timing or split-size decisions, validated against commercial and USDA field data.
+  - **Baseline colony model technical report.** The shared mathematical reference with modular stressor extensions.
+  :::
+
+- ::: {.when}
+  MONTHS 6–12
+  :::
+  ::: {}
+  ### Phase III — Integrated grant development
+
+  Convert pilot results and workshop consensus into competitive, externally funded programmes. Coordinated multi-institution proposals will be stronger than individual submissions, and signal to funders that a genuine research community has formed.
+
+  - **NSF Mathematical Biology (DMS).** Multi-stressor mathematical modelling of pollinator resilience, building on prior NSF-DMS awards to Kang and collaborators (1313312, 1716802, 2052820).
+  - **USDA-NIFA-AFRI.** Large-scale colony monitoring capturing all seven stressor categories across multiple sites and years.
+  - **NSF IOS/DMS integrative proposal.** Linking colony-level biological dynamics with geospatial landscape models.
+  - **Industry partnerships.** Formal data-sharing and co-development agreements with commercial operations, ensuring field validation and translation pathways.
+  - **Additional mechanisms.** DOE, NIH, and private foundation opportunities for hybrid mechanistic–AI methods in ecological forecasting.
+  :::
+:::
+
+## Recommended deliverables
+
+| Deliverable | Lead(s) | Timeline | Type |
+|---|---|---|---|
+| Workshop perspective / review article | Kang + all PIs | 6 months | Paper |
+| Pilot early warning study | Fine, Udiani, Rodriguez | 6 months | Paper |
+| Climate sensitivity paper | Group 3 team | 9 months | Paper |
+| Intervention optimisation paper | Group 2 team | 9 months | Paper |
+| Shared dataset crosswalk / inventory | DeGrandi-Hoffman, Kang, Flenniken | 3 months | Infrastructure |
+| Baseline colony model | Kang, Parshad, Pal | 6 months | Technical report |
+| Early warning pipeline | Group 4 team | 12 months | Software |
+| Beescape deep learning extension | Li, Group 5 | 12 months | Software |
+| NSF MathBio proposal | Kang + collaborators | 12 months | Grant |
+| USDA-NIFA-AFRI proposal | Math + Bio leads | 12 months | Grant |
+| Commercial beekeeper decision tool | Groups 2 & 4 + industry | 18–24 months | Applied tool |
+
+## What success means
+
+The ultimate measure is not publications or grant awards. It is whether honeybee colonies — and the pollinators that share their fate — are healthier a decade from now because of the mathematics done here.
+
+Three things distinguish this collaboration from prior efforts. The **mathematical depth** available to the group — bifurcation theory, delay differential equations, stochastic analysis, optimal control, machine learning — substantially exceeds what previous honeybee models have employed. The **cross-sector breadth**, from differential equations to waggle dance analysis to commercial apiary management, is unusual and necessary; it multiplies every individual contribution. And the **shared urgency**: participants agree that failing to act is not a neutral scientific stance but a choice with real consequences.

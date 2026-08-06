@@ -1,0 +1,40 @@
+---
+title: "Data & software"
+subtitle: "Datasets, models, and tools supporting the collaboration"
+---
+
+[Shared infrastructure]{.eyebrow}
+
+Building shared data and code infrastructure is the first phase of the [roadmap](roadmap.qmd), and the field's most urgent near-term priority. No single existing dataset captures all seven stressor categories across multiple colonies over a full annual cycle. Closing that gap — by integrating what already exists before commissioning anything new — is where the leverage is.
+
+## Datasets in the collaboration
+
+| Dataset | Contributor | Contents | Status |
+|---|---|---|---|
+| In-hive sensor time series | Julia Fine, USDA ARS | One year, 40 colonies, 15-minute resolution: internal acoustics, temperature, humidity, external apiary conditions; monthly manual population and brood counts | Sharing feasibility under evaluation |
+| Multi-year colony measurements | Gloria DeGrandi-Hoffman, USDA ARS / ASU | Frame counts, *Varroa* levels, pollen data, virus data, organised against corresponding publications | Being organised for release |
+| Dataset crosswalk / inventory | Kang, DeGrandi-Hoffman, Flenniken | Variables measured, temporal resolution, colony counts, geographic coverage, formats across all participating labs | In progress — Phase I deliverable |
+
+## Software targets
+
+| Tool | Lead | Description | Timeline |
+|---|---|---|---|
+| Baseline colony model | Kang, Parshad, Pal | Reference implementation of the healthy-colony ODE framework with modular stressor extensions | 6 months |
+| Early warning pipeline | Group 4 | Time series and machine learning pipeline for detecting pre-collapse signatures in sensor streams | 12 months |
+| Beescape deep learning extension | Li, Group 5 | Deep learning on aerial imagery for flowering species richness prediction | 12 months |
+| Beekeeper decision tool | Groups 2 & 4 + industry | Operational decision rules for treatment timing and split decisions | 18–24 months |
+
+Code released by the collaboration will be published in this GitHub organisation with open licences and reproducible environments.
+
+## External resources
+
+- [**Beescape**](https://beescape.psu.edu/) — landscape quality assessment for pollinators (Penn State).
+- [**BeeSpatial**](https://beescape.org/) — spatial pollinator habitat and forage tools.
+- **BEEPOP / VarroaPop** — USDA honeybee colony population simulation models.
+- [**American Institute of Mathematics**](https://aimath.org/) — host of the originating 2026 workshop.
+
+::: {.panel}
+[Contributing data]{.eyebrow}
+
+If you hold colony monitoring data — sensor streams, inspection records, treatment logs, loss records — and would consider contributing it to the crosswalk, please [contact us](contact.qmd). Contribution to the inventory does not require making data public; the first step is simply documenting what exists.
+:::

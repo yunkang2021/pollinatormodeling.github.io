@@ -1,0 +1,88 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "research/*.qmd"
+
+website:
+  title: "New Mathematics for Pollinator Health"
+  description: "A collaborative research initiative advancing the mathematical sciences to understand, predict, and reverse pollinator decline."
+  site-url: "https://yunkang2021.github.io/pollinatormodeling.github.io/"
+  repo-url: "https://github.com/yunkang2021/pollinatormodeling.github.io"
+  favicon: assets/favicon.svg
+  page-navigation: true
+
+  navbar:
+    logo: assets/mark.svg
+    title: "Pollinator Mathematics"
+    collapse-below: lg
+    left:
+      - text: "Research"
+        menu:
+          - text: "Priority research agenda"
+            href: research/index.qmd
+          - text: "Mathematical foundations"
+            href: research/foundations.qmd
+          - text: "Working groups"
+            href: research/working-groups.qmd
+          - text: "Open problems"
+            href: research/open-problems.qmd
+      - text: "Roadmap"
+        href: roadmap.qmd
+      - text: "Data & Software"
+        href: data.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "News"
+        href: news.qmd
+    right:
+      - icon: github
+        href: https://github.com/yunkang2021/pollinatormodeling.github.io
+        aria-label: GitHub repository
+
+  sidebar:
+    - title: "Research"
+      style: "floating"
+      collapse-level: 2
+      contents:
+        - research/index.qmd
+        - research/foundations.qmd
+        - research/working-groups.qmd
+        - research/open-problems.qmd
+
+  page-footer:
+    border: false
+    left: |
+      Hosted by the School of Mathematical and Natural Sciences,<br>Arizona State University.
+    center: |
+      Originating from the 2026 AIM workshop<br>*Addressing Declining Pollinator Populations Through New Mathematics*
+    right: |
+      [Contact](/contact.qmd) · [GitHub](https://github.com/yunkang2021/pollinatormodeling.github.io)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/theme.scss
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    css: assets/styles.css
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    html-math-method: katex
+    link-external-newwindow: true
+    anchor-sections: true
+    smooth-scroll: true
+
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/american-institute-of-physics.csl
+
+execute:
+  freeze: auto

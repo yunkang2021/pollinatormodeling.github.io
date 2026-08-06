@@ -1,0 +1,42 @@
+---
+title: "People"
+subtitle: "The interdisciplinary, multi-sector community driving this work"
+---
+
+[Workshop participants]{.eyebrow}
+
+The 2026 AIM workshop drew on expertise spanning mathematical biology, dynamical systems, ecology, entomology, virology, data science, geospatial analysis, and commercial beekeeping, across multiple institutions and countries. That breadth — from differential equations to hive management — is itself one of the collaboration's most important assets.
+
+| Participant | Affiliation | Group(s) | Expertise |
+|---|---|---|---|
+| Yun Kang | Arizona State University | 1, 3, 4, 7 | Mathematical biology, honeybee modelling |
+| Gloria DeGrandi-Hoffman | USDA ARS / Arizona State University | 1 | Honeybee biology, data, population modelling |
+| Michelle Flenniken | Montana State University | 1 | Virology, bee biology |
+| Rana Parshad | Iowa State University | 1 | Dynamical systems |
+| Samares Pal | University of Kalyani | 1 | Mathematical biology |
+| Vardayani Ratti | CSU Chico | 1 | Honeybee–virus modelling |
+| Kevin Li | Penn State University | 1, 5 | Landscape ecology |
+| Jordan Rodriguez | UT Arlington | 1, 4 | Data analysis, ODEs |
+| Harland Patch | Penn State University | 1 | Landscape nutrition |
+| Lucero Rodriguez | Workshop participant | 1 | Mathematical biology |
+| Julia Fine | USDA ARS | 4 | Sensor data, monitoring, bee biology |
+| Beth Conrey | B Squared Apiaries (CO) | 4 | Commercial beekeeping |
+| Pierre Lau | USDA ARS | 4 | Bee health, toxicology |
+| Oyita Udiani | Virginia Commonwealth University | 4 | Self-organised systems, mathematical biology |
+| John Stavroulakis | Workshop participant | 4 | Mathematical modelling, DDEs |
+| Oluwatosin Babasola | Workshop participant | 3 | Mathematical modelling |
+| Kayode Oshinubi | Workshop participant | 3 | Mathematical modelling |
+| Oluwaseun Ajayi | Workshop participant | 3 | Applied mathematics |
+| Jianzhong Su | UT Arlington | 3, 5 | Differential equations, dynamical systems |
+| Jun Chen | Texas A&M University – Kingsville | 3, 7 | Machine learning, dynamical systems |
+| Adrian Fisher II | Arizona State University | 3, 7 | Heat waves, queen egg-laying rates, bee physiology |
+| Hermann J. Eberl | University of Guelph | — | Applied mathematics, bee modelling |
+| Hayoung Choi | Kyungpook National University | 5, 7 | Data analysis, AI |
+
+: Participants are listed with the working groups they contributed to. {tbl-colwidths="[22,28,12,38]"}
+
+::: {.panel}
+[Joining]{.eyebrow}
+
+The collaboration is open. If your work touches any of the [six priority areas](research/index.qmd) — or if you keep bees and are willing to tell us where our models break — please [get in touch](contact.qmd).
+:::

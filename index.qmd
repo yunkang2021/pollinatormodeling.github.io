@@ -1,0 +1,156 @@
+---
+pagetitle: "New Mathematics for Pollinator Health"
+toc: false
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-grid}
+::: {}
+[A research initiative]{.eyebrow-light}
+
+# The mathematics of a colony that does not come back
+
+::: {.lede}
+Colony collapse is not a slow slide. It is a threshold crossing — and the mathematics of thresholds is where the leverage is.
+:::
+
+We build the dynamical systems, stochastic models, optimal control frameworks, and hybrid mechanistic–AI methods needed to predict when a honeybee colony loses resilience, and to decide what to do about it while there is still time to act.
+
+[Priority research agenda](research/index.qmd){.btn-x .solid}
+[Read the 2026 AIM report](roadmap.qmd){.btn-x}
+:::
+
+```{=html}
+<figure class="phase">
+<svg viewBox="0 0 520 350" role="img" aria-labelledby="phaseTitle phaseDesc" xmlns="http://www.w3.org/2000/svg">
+  <title id="phaseTitle">Three colony trajectories relative to a collapse threshold</title>
+  <desc id="phaseDesc">A schematic time series. One colony grows and persists. A second dips toward the threshold and recovers. A third crosses the threshold and falls irreversibly to extinction.</desc>
+  <line x1="56" y1="34" x2="56" y2="292" stroke="rgba(255,255,255,.28)" stroke-width="1"/>
+  <line x1="56" y1="292" x2="502" y2="292" stroke="rgba(255,255,255,.28)" stroke-width="1"/>
+  <rect x="56" y="232" width="446" height="60" fill="#a32f2c" opacity="0.10"/>
+  <line x1="56" y1="232" x2="502" y2="232" stroke="#d99a16" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <text x="496" y="250" text-anchor="end" fill="#d99a16" font-family="IBM Plex Mono, monospace" font-size="10.5" letter-spacing="0.06em">TIPPING THRESHOLD</text>
+  <path class="trace" d="M60,204 C170,168 250,124 500,86" fill="none" stroke="#3fbf99" stroke-width="2.2" stroke-linecap="round"/>
+  <path class="trace trace-2" d="M60,204 C148,196 202,220 282,226 C360,232 420,158 500,118" fill="none" stroke="#e5b455" stroke-width="2.2" stroke-linecap="round"/>
+  <path class="trace trace-3" d="M60,204 C150,198 214,228 268,243 C312,256 344,278 386,289 L500,291" fill="none" stroke="#d9615d" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="500" cy="86" r="4" fill="#3fbf99"/>
+  <circle cx="500" cy="291" r="4" fill="#d9615d"/>
+  <text x="486" y="74" fill="rgba(255,255,255,.65)" font-family="IBM Plex Mono, monospace" font-size="10" text-anchor="end">healthy equilibrium</text>
+  <text x="486" y="312" fill="rgba(255,255,255,.65)" font-family="IBM Plex Mono, monospace" font-size="10" text-anchor="end">extinction equilibrium</text>
+  <text x="56" y="334" fill="rgba(255,255,255,.4)" font-family="IBM Plex Mono, monospace" font-size="10" letter-spacing="0.08em">TIME &#8594;</text>
+  <text x="-172" y="22" transform="rotate(-90)" fill="rgba(255,255,255,.4)" font-family="IBM Plex Mono, monospace" font-size="10" letter-spacing="0.08em">COLONY SIZE</text>
+</svg>
+<figcaption>Bistability under a strong Allee effect. Two stable states are separated by a threshold; below it, collapse proceeds regardless of external conditions. How a colony arrives at a given population level matters as much as the level itself.</figcaption>
+</figure>
+```
+:::
+:::
+
+::: {.stats}
+::: {.stat}
+[80%]{.n}[of the world's food crops depend on bee pollination]{.l}
+:::
+::: {.stat}
+[\$14B]{.n}[annual contribution to U.S. seed and crop production]{.l}
+:::
+::: {.stat .warn}
+[30–50%]{.n}[recent annual U.S. colony losses, against a ~10% baseline]{.l}
+:::
+::: {.stat}
+[7]{.n}[stressor categories that must be modelled jointly, not separately]{.l}
+:::
+:::
+
+## Why mathematics, and why now
+
+Colony collapse cannot be explained by any single stressor. *Varroa* mites, viral infection, nutritional deficit, pesticide exposure, queen quality, cumulative forager flight hours, and climate stress interact synergistically, producing sudden nonlinear transitions that no single-factor account can reproduce. Even within one apiary — genetically similar queens, the same mite treatments, shared forage — colony outcomes diverge sharply. That unexplained variance is the signature of hidden synergistic dynamics.
+
+Bifurcation theory, multi-attractor analysis, delay differential equations, stochastic and nonautonomous systems, and optimal control are the tools built for exactly this class of problem. No other discipline has equivalents. This is why mathematics belongs at the centre of pollinator research rather than at its periphery.
+
+::: {.panel}
+[Methodological principle]{.eyebrow}
+
+Start with the simplest model that captures the essential biology, validate it against data, then extend modularly. Prior work shows that honeybee–mite models without full age structure already reproduce qualitative collapse dynamics observed in the field. Added complexity has to earn its place — it is justified only when the simpler model fails to account for an observed phenomenon.
+:::
+
+## Six priority directions
+
+::: {.cards}
+
+::: {.card-x}
+
+[01 / Foundation]{.num}
+
+### [Baseline colony dynamics](research/index.qmd#baseline){.stretched-link}
+
+A healthy-colony population framework anchored in the Perry–Barron ODE system, with modular extensions for mites, viruses, nutrition, pesticides, and climate. The shared mathematical reference for every sub-team.
+
+:::
+
+::: {.card-x}
+
+[02 / Core theory]{.num}
+
+### [Multi-stressor resilience](research/index.qmd#resilience){.stretched-link}
+
+Formalising how cumulative and interacting stressors move a colony toward loss of resilience. Bifurcation parameters, tipping thresholds, and early warning signatures for each stressor combination.
+
+:::
+
+::: {.card-x}
+
+[03 / Near-term impact]{.num}
+
+### [Early warning analytics](research/index.qmd#early-warning){.stretched-link}
+
+In-hive sensor streams and manual colony records analysed for predictive signatures of brood stress, optimal treatment windows, and collapse risk. Time series, machine learning, and optimal control.
+
+:::
+
+::: {.card-x}
+
+[04 / Decisions]{.num}
+
+### [Intervention optimisation](research/index.qmd#optimisation){.stretched-link}
+
+Optimal control models for miticide timing, split size, supplemental feeding, and overwintering — incorporating colony health *and* economic outcomes, validated against commercial field data.
+
+:::
+
+::: {.card-x}
+
+[05 / Environment]{.num}
+
+### [Climate–landscape integration](research/index.qmd#climate){.stretched-link}
+
+Stochastic temperature models, thermoregulatory energy costs, forage phenology, and pesticide exposure landscapes linked to colony dynamics in a spatially explicit framework.
+
+:::
+
+::: {.card-x}
+
+[06 / Methods frontier]{.num}
+
+### [Hybrid mechanistic–AI](research/index.qmd#hybrid){.stretched-link}
+
+Neural ODEs, data assimilation, and latent-state estimation for sparse, heterogeneous, multi-scale pollinator datasets — the methodology that will determine long-term model power.
+
+:::
+
+:::
+
+## Where the field stands
+
+The work does not begin from scratch. A decade of results from this community — Allee effects and catastrophic events, parasite–virus synergy with multiple attractors, two-patch mite dispersal and CCD propagation, delay differential equations and staged modelling, state-dependent optimal control — provides the theoretical foundation on which new work builds.
+
+What is missing is not data. Multiple high-quality datasets exist across participating labs. What is missing is the infrastructure and the analytical frameworks to integrate them.
+
+[Mathematical foundations](research/foundations.qmd){.btn-x .solid}
+[Data and software](data.qmd){.btn-x}
+
+::: {.panel-dark}
+### Translation is a research goal, not an afterthought
+
+Commercial beekeepers need decision rules, not diagnostic dashboards. An early warning system that requires a PhD to interpret will not prevent colony losses. Mathematical simplification for practical deployment is not a compromise — it is a research objective in its own right.
+:::

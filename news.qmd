@@ -1,0 +1,21 @@
+---
+title: "News"
+toc: false
+---
+
+
+[Updates]{.eyebrow}
+
+Announcements, milestones, meetings, and outputs from the collaboration.
+
+### May 2026 — Workshop final report released
+
+The final report of the AIM workshop *Addressing Declining Pollinator Populations Through New Mathematics* is complete, synthesising outcomes from all eight working groups and setting out a coordinated twelve-month research and partnership roadmap.
+
+### April 2026 — Workshop concludes at AIM
+
+The workshop ran March 30 – April 5, 2026, convening mathematicians, ecologists, data scientists, and commercial beekeeping practitioners. Eight working groups produced the six priority research directions that now define the collaboration's agenda.
+
+### In progress — Phase I infrastructure
+
+Work is underway on the shared dataset crosswalk, sub-team formation around the six priority areas, and a power analysis for a future large-scale monitoring study.

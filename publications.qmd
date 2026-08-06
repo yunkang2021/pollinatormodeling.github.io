@@ -1,0 +1,35 @@
+---
+title: "Publications"
+subtitle: "Work underpinning and emerging from the collaboration"
+---
+
+[Selected references]{.eyebrow}
+
+Key works cited or discussed during the 2026 AIM workshop, together with foundational results from participants. Publications produced by the collaboration will be added here as they appear.
+
+## Foundations of honeybee colony modelling
+
+- Perry, C.J., Søvik, E., Myerscough, M.R., Barron, A.B. (2015). Rapid behavioral maturation accelerates failure of stressed honey bee colonies. *PNAS*, 112(11), 3427–3432.
+- Kang, Y., Blanco, K., Davies, T., Wang, Y., DeGrandi-Hoffman, G. (2016). Disease dynamics of honeybees with *Varroa destructor* as parasite and virus vector. *Mathematical Biosciences*, 275, 71–92.
+- Messan, K., DeGrandi-Hoffman, G., Castillo-Chavez, C., Kang, Y. (2017). Migration effects on population dynamics of the honeybee–mite interactions. *Mathematical Modelling of Natural Phenomena*, 12(2), 84–115.
+- Messan, M.R., Page Jr, R.E., Kang, Y. (2018). Effects of vitellogenin in age polyethism and population dynamics of honeybees. *Ecological Modelling*, 388, 88–107.
+
+## Mathematical methods
+
+- Thieme, H.R. (1993). Persistence under relaxed point-dissipativity, with application to an endemic model. *SIAM Journal on Mathematical Analysis*, 24(2), 407–435.
+
+## Nutrition, toxicology, and landscape
+
+- Moore, E., de Sousa, R.T., Felsinger, S., Arnesen, J.A., Dyekjær, J.D., Farman, D.I., Gonçalves, R.F., Stevenson, P.C., Borodina, I., Wright, G.A. (2025). Engineered yeast provides rare but essential pollen sterols for honeybees. *Nature*, 646(8084), 365–371.
+- Gekière, A., Breuer, L., Dorio, L., Vanderplanck, M., Michez, D. (2024). Lethal effects and sex-specific tolerance of copper and cadmium in the buff-tailed bumble bee. *Environmental Toxicology and Pharmacology*, 110, 104546.
+- Nunes, M.R., Veum, K.S., Parker, P.A., Holan, S.H., Karlen, D.L., Amsili, J.P., Van Es, H.M., Wills, S.A., Seybold, C.A., Moorman, T.B. (2021). The soil health assessment protocol and evaluation applied to soil organic carbon. *Soil Science Society of America Journal*, 85(4), 1196–1213.
+
+## Forthcoming from the collaboration
+
+Four manuscripts are in preparation as part of the [Phase II roadmap](roadmap.qmd): a workshop perspective article defining the mathematical agenda for pollinator research, a pilot early warning study, a climate sensitivity paper, and an intervention optimisation paper.
+
+::: {.panel}
+[Maintaining this page]{.eyebrow}
+
+To add a publication, append an entry to `references.bib` in the repository and open a pull request. The list can be switched to automatic BibTeX rendering once the bibliography is populated — see `README.md` for instructions.
+:::

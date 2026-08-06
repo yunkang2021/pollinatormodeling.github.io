@@ -1,0 +1,30 @@
+---
+title: "Contact"
+toc: false
+---
+
+[Get in touch]{.eyebrow}
+
+## Collaboration enquiries
+
+The collaboration is coordinated from the School of Mathematical and Natural Sciences at Arizona State University.
+
+**Yun Kang**  
+Professor, Applied Mathematics  
+Arizona State University  
+[yun.kang@asu.edu](mailto:yun.kang@asu.edu)
+
+## Contributing to this site
+
+This website is maintained in the open. Corrections, additions to the [open problems](research/open-problems.qmd) list, publication entries, and news items are all welcome as pull requests.
+
+[Open an issue](https://github.com/yunkang2021/pollinatormodeling.github.io/issues){.btn-x .solid}
+[View the repository](https://github.com/yunkang2021/pollinatormodeling.github.io){.btn-x}
+
+## Contributing data
+
+If you hold colony monitoring data and would consider contributing it to the shared inventory, see [Data & software](data.qmd). Contributing to the inventory does not require making data public — the first step is documenting what exists.
+
+## Acknowledgements
+
+This collaboration originated at a workshop hosted by the [American Institute of Mathematics](https://aimath.org/), March 30 – April 5, 2026. Prior work by participants has been supported by NSF-DMS awards 1313312, 1716802, and 2052820, and by the USDA Agricultural Research Service.
