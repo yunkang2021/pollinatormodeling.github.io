@@ -7,7 +7,7 @@ toc: false
 
 ## Collaboration enquiries
 
-The collaboration is coordinated from the School of Mathematical and Natural Sciences at Arizona State University.
+The collaboration is coordinated from College of Integrative Sciences and Arts at Arizona State University.
 
 **Yun Kang**  
 Professor, Applied Mathematics  
@@ -27,4 +27,4 @@ If you hold colony monitoring data and would consider contributing it to the sha
 
 ## Acknowledgements
 
-This collaboration originated at a workshop hosted by the [American Institute of Mathematics](https://aimath.org/), March 30 – April 5, 2026. Prior work by participants has been supported by NSF-DMS awards 1313312, 1716802, and 2052820, and by the USDA Agricultural Research Service.
+This collaboration originated at a workshop hosted by the [American Institute of Mathematics](https://aimath.org/), March 30 – April 5, 2026. Prior work by participants has been supported by NSF-DMS awards 1313312, 1716802, 2052820 and 2602341, and by the USDA Agricultural Research Service.
