@@ -33,7 +33,7 @@ The plan below reflects a collective commitment across all working groups. It is
 
   Produce visible early outputs that demonstrate the collaboration is working, attract additional collaborators, and provide preliminary results for competitive grant applications. Momentum matters as much as perfection at this stage.
 
-  - **Workshop perspective article.** Define the mathematical agenda for pollinator research, situate it within complex systems biology, and make the case for sustained interdisciplinary investment. Target a broad-audience venue.
+  - **Workshop perspective / review article.** A working manuscript now defines the mathematical agenda for pollinator research, synthesises five thematic pillars, and identifies sixteen open problems plus two cross-cutting methodological questions. Authorship, affiliations, reference verification, and submission details must be finalised before journal circulation.
   - **Pilot early warning study.** Time series, correlation, and clustering analyses on the in-hive sensor dataset to identify acoustic and thermal precursors to decline.
   - **Climate sensitivity paper.** Temperature-dependent and stochastic colony models incorporating extreme weather impacts.
   - **Preliminary optimisation paper.** An ODE-based optimal control model for miticide timing or split-size decisions, validated against commercial and USDA field data.
@@ -60,7 +60,7 @@ The plan below reflects a collective commitment across all working groups. It is
 
 | Deliverable | Lead(s) | Timeline | Type |
 |---|---|---|---|
-| Workshop perspective / review article | Kang + all PIs | 6 months | Paper |
+| Workshop perspective / review article | Authorship under confirmation | Working manuscript prepared | Paper |
 | Pilot early warning study | Fine, Udiani, Rodriguez | 6 months | Paper |
 | Climate sensitivity paper | Group 3 team | 9 months | Paper |
 | Intervention optimisation paper | Group 2 team | 9 months | Paper |

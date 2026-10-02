@@ -18,7 +18,7 @@ Colony collapse is not a slow slide. It is a threshold crossing — and the math
 We build the dynamical systems, stochastic models, optimal control frameworks, and hybrid mechanistic–AI methods needed to predict when a honeybee colony loses resilience, and to decide what to do about it while there is still time to act.
 
 [Priority research agenda](research/index.qmd){.btn-x .solid}
-[Read the 2026 AIM report](roadmap.qmd){.btn-x}
+[Read the 2026 AIM report](resources/AIM-Workshop-Final-Report-2026.pdf){.btn-x}
 :::
 
 ```{=html}

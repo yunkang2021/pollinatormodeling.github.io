@@ -7,6 +7,8 @@ subtitle: "Six coordinated directions for mathematics that can anticipate and pr
 
 The collaboration is organised around six connected priorities. Together they move from a shared mechanistic foundation to field-ready decisions: define healthy colony dynamics, quantify loss of resilience, detect warning signals, optimise interventions, incorporate climate and landscape, and connect mechanistic models with modern data methods.
 
+This programme is documented in the [final AIM workshop report](../resources/AIM-Workshop-Final-Report-2026.pdf) and developed further in the [working review manuscript](../resources/Mathematical-Models-of-Pollinator-Populations-Working-Manuscript-2026.pdf), which consolidates sixteen domain problems and two cross-cutting methodological questions.
+
 ## Baseline colony dynamics {#baseline}
 
 A common reference model is essential for comparing assumptions and combining results across teams. The starting point is a parsimonious worker-population framework, informed by the Perry–Barron model, that represents recruitment, behavioural maturation, forager loss, and feedback between hive bees and foragers.

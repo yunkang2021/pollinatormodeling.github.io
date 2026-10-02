@@ -42,6 +42,7 @@ assets/
   theme.scss             colours, type scale, components
   styles.css             small refinements
   mark.svg, favicon.svg  navbar mark and favicon
+resources/               downloadable reports and working manuscripts
 references.bib           BibTeX bibliography
 ```
 
@@ -87,7 +88,4 @@ eyebrows). All loaded from Google Fonts in `_quarto.yml`.
 
 ## Content source
 
-Page content is drawn from the workshop final report
-(`AIM_Workshop_Report-Long-v3-GDH-7May2026.docx`). Where the report gives figures
-or attributions, they have been carried over directly; the connective prose is
-written for a web audience.
+Page content is drawn from the 2026 AIM workshop final report and the October 2026 working review manuscript. Both are available under `resources/`. The review must remain labelled as a working manuscript until its author list, affiliations, contributions, and submission details are confirmed. Where the sources give figures or attributions, they are carried over directly; connective prose is written for a web audience.

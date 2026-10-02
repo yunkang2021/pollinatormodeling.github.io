@@ -3,9 +3,12 @@ title: "Publications"
 subtitle: "Work underpinning and emerging from the collaboration"
 ---
 
-[Selected references]{.eyebrow}
+[Collaboration outputs]{.eyebrow}
 
-Key works cited or discussed during the 2026 AIM workshop, together with foundational results from participants. Publications produced by the collaboration will be added here as they appear.
+## Reports and manuscripts
+
+- AIM Workshop Participants (2026). *Addressing Declining Pollinator Populations Through New Mathematics: Workshop Final Report*. American Institute of Mathematics, March 30–April 5, 2026. [Download the final report](resources/AIM-Workshop-Final-Report-2026.pdf).
+- *Mathematical Models of Pollinator Populations: A Multi-Scale Review and Research Agenda for Honey Bees and Beyond* (working manuscript, October 2, 2026). The manuscript synthesises five thematic pillars, identifies sixteen open mathematical problems and two cross-cutting methodological questions, and sets out a staged research programme. Authorship, affiliations, and author contributions remain under confirmation; this file should not yet be cited as a final publication. [Download the working manuscript](resources/Mathematical-Models-of-Pollinator-Populations-Working-Manuscript-2026.pdf).
 
 ## Foundations of honeybee colony modelling
 
@@ -24,12 +27,12 @@ Key works cited or discussed during the 2026 AIM workshop, together with foundat
 - Gekière, A., Breuer, L., Dorio, L., Vanderplanck, M., Michez, D. (2024). Lethal effects and sex-specific tolerance of copper and cadmium in the buff-tailed bumble bee. *Environmental Toxicology and Pharmacology*, 110, 104546.
 - Nunes, M.R., Veum, K.S., Parker, P.A., Holan, S.H., Karlen, D.L., Amsili, J.P., Van Es, H.M., Wills, S.A., Seybold, C.A., Moorman, T.B. (2021). The soil health assessment protocol and evaluation applied to soil organic carbon. *Soil Science Society of America Journal*, 85(4), 1196–1213.
 
-## Forthcoming from the collaboration
+## In development
 
-Four manuscripts are in preparation as part of the [Phase II roadmap](roadmap.qmd): a workshop perspective article defining the mathematical agenda for pollinator research, a pilot early warning study, a climate sensitivity paper, and an intervention optimisation paper.
+The working review manuscript completes the first synthesis milestone in the [Phase II roadmap](roadmap.qmd). The pilot early warning study, climate sensitivity paper, intervention optimisation paper, and baseline colony model technical report remain in development.
 
 ::: {.panel}
 [Maintaining this page]{.eyebrow}
 
-To add a publication, append an entry to `references.bib` in the repository and open a pull request. The list can be switched to automatic BibTeX rendering once the bibliography is populated — see `README.md` for instructions.
+Add finalized publications to `references.bib` and list them here. Working manuscripts should be clearly identified until authorship and submission details are confirmed.
 :::

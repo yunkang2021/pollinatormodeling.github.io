@@ -1,52 +1,103 @@
 ---
 title: "Open problems"
-subtitle: "Questions for new projects, student research, and cross-disciplinary collaboration"
+subtitle: "Eighteen research questions spanning colony dynamics, control, climate, landscape, and data"
 ---
 
-[Research questions]{.eyebrow}
+[Research agenda]{.eyebrow}
 
-These problems are deliberately framed at several scales. Some support a focused student project; others require coordinated data and expertise across the collaboration. In each case, progress depends on connecting mathematical claims to measurable colony outcomes.
+The working review consolidates sixteen domain problems and two cross-cutting methodological questions. The numbering below follows that manuscript. These are research directions rather than settled claims; each problem should be tied to measurable outcomes, identifiable parameters, and a decision or experiment that would change as a result.
 
-## Thresholds and resilience
+## Persistence, tipping points, and collapse
 
-- Which observable quantities provide a reliable estimate of distance to a colony's basin boundary?
-- How do simultaneous nutritional, pathogen, and pesticide stressors shift a collapse threshold compared with their separate effects?
-- When parameters vary seasonally, what definition of resilience best predicts survival through the next high-risk period?
+### P1 — Basin boundary characterisation
 
-## Early warning
+Characterise the boundary between viable-colony and extinction basins in reduced colony models. This geometry is the foundation for a composite stress score and state-dependent management.
 
-- Which acoustic and thermal features change before manual measures of brood or adult population decline?
-- How much history and what sampling frequency are required for a warning that is useful in practice?
-- Can warning rules transfer across apiaries, climates, equipment, and management styles without complete retraining?
+### P2 — Mechanism identification
 
-## Intervention and control
+Determine when monitoring data can distinguish alternative collapse pathways, such as demographic feedback, parasitism, thermal stress, or combinations of these mechanisms.
 
-- When should a mite treatment be applied if efficacy, resistance, brood stage, cost, and weather are uncertain?
-- How should feeding or split decisions change when the current colony state is only partially observed?
-- What is the simplest decision rule that retains most of the benefit of a fully optimised control policy?
+## Parasites and pathogens
 
-## Climate and landscape
+### P3 — Multi-virus coinfection
 
-- How do heat waves alter queen laying, worker demography, and thermoregulatory costs over different time scales?
-- When does forage diversity buffer a colony against climate or pesticide stress, and when is abundance the limiting factor?
-- How should colony-level models be coupled to landscape exposure without introducing parameters that cannot be identified?
+Develop and analyse models in which several viruses interact within a colony rather than treating a single virus in isolation.
 
-## Hybrid methods and data integration
+### P4 — Cross-taxon parasite interaction
 
-- Which latent biological states can be recovered from sparse sensor and inspection data?
-- How can a neural differential equation respect positivity, conservation relationships, and known thresholds?
-- How should predictions communicate uncertainty when datasets differ in variables, resolution, geography, and access conditions?
+Model interactions between *Varroa destructor*, *Nosema*, viruses, and their host colony, using surveillance data to determine which couplings materially change persistence or collapse risk.
 
-## Study design
+### P5 — Treatment-induced destabilisation
 
-- What colony count and measurement schedule provide enough power to detect stressor interactions rather than marginal effects alone?
-- Which small set of common measurements would make existing datasets substantially more interoperable?
-- How can commercial operations participate in validation without imposing unrealistic collection burdens?
+Determine whether and when a treatment perturbation can move a stressed colony across a basin boundary even while reducing its target parasite or pathogen.
+
+## Climate, thermoregulation, and agrochemicals
+
+### P6 — Stochastic collapse-time distribution
+
+Use stochastic differential equations and first-passage theory to quantify how environmental variability changes the probability and timing of colony collapse.
+
+### P7 — Pesticide catastrophe criterion
+
+Derive a dynamical threshold for pesticide-driven loss of the viable-colony attractor, including cumulative and sublethal exposure where data permit.
+
+### P8 — Critical phenological offset
+
+Quantify how much mismatch between floral-resource availability and colony nutritional demand can be tolerated before persistence is lost.
+
+### P9 — Thermal exposure functionals
+
+Identify temperature summaries that retain the duration, severity, and timing of heat or cold stress better than seasonal mean temperature alone.
+
+## Management and control
+
+### P10 — Multi-stressor optimal control
+
+Formulate joint intervention policies for mites, nutrition, pathogens, and seasonal stress rather than optimising one intervention independently.
+
+### P11 — Viable-split separatrix
+
+Characterise the initial combinations of bees, brood, resources, queen state, and timing that separate successful colony splits from failed splits.
+
+### P12 — Near-optimal feedback rules
+
+Derive simple, field-usable decision rules and bound their loss relative to a fully optimised control policy.
+
+### P13 — Economic portfolio optimisation
+
+Optimise how a commercial operation allocates limited labour, treatments, feeding, replacement queens, and monitoring effort across many colonies.
+
+## Spatial, landscape, and multispecies dynamics
+
+### P14 — Coupled ODE–PDE well-posedness
+
+Establish a rigorous framework for coupling within-colony ODE dynamics to spatial resource, exposure, or foraging PDEs.
+
+### P15 — Apiary network stability
+
+Determine when drift, robbing, migration, or management links allow one declining colony to destabilise neighbouring colonies or an apiary network.
+
+### P16 — Managed–wild competition and mutualism collapse
+
+Analyse how managed and wild pollinators compete for resources and how those dynamics feed back on plant–pollinator mutualisms.
+
+## Cross-cutting methodology
+
+### Early-warning lead-time bounds
+
+Derive the maximum useful warning time near saddle-node and subcritical Hopf bifurcations as a function of noise and parameter drift. Test whether combining acoustic, thermal, and manual observations can provably improve lead time.
+
+### Hybrid-model identifiability
+
+Establish which latent states and parameters in mechanistic–machine-learning models can be estimated from realistic monitoring streams, and determine the minimum observation frequency and diversity needed.
 
 ::: {.panel-dark}
-### A criterion for useful progress
+### Priority entry points
 
-An answer should identify what can be measured, what would distinguish competing mechanisms, and what decision or next experiment changes as a result. A mathematically interesting result becomes a collaboration priority when it also improves inference, study design, or management.
+The working review identifies basin-boundary characterisation, cross-taxon parasite interaction, critical phenological offset, and the viable-split separatrix as high-value entry points: each is tractable with current methods, has a plausible validation pathway, and unlocks related questions.
 :::
+
+[Download the working review manuscript](../resources/Mathematical-Models-of-Pollinator-Populations-Working-Manuscript-2026.pdf){.btn-x .solid}
+[Read the final AIM workshop report](../resources/AIM-Workshop-Final-Report-2026.pdf){.btn-x}
 
 To propose a problem, contribute data, or join a project, see [Contact](../contact.qmd). The [priority agenda](index.qmd) and [roadmap](../roadmap.qmd) provide the broader programme context.

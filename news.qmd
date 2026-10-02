@@ -3,19 +3,22 @@ title: "News"
 toc: false
 ---
 
-
 [Updates]{.eyebrow}
 
 Announcements, milestones, meetings, and outputs from the collaboration.
 
+### October 2026 — Review manuscript prepared
+
+A working manuscript, *Mathematical Models of Pollinator Populations: A Multi-Scale Review and Research Agenda for Honey Bees and Beyond*, now synthesises the literature across five thematic pillars, identifies sixteen open mathematical problems and two cross-cutting methodological questions, and connects them to the collaboration's staged research agenda. Authorship and affiliations are still being confirmed, so the document is posted as a working manuscript rather than a final publication. [Download the manuscript](resources/Mathematical-Models-of-Pollinator-Populations-Working-Manuscript-2026.pdf).
+
 ### May 2026 — Workshop final report released
 
-The final report of the AIM workshop *Addressing Declining Pollinator Populations Through New Mathematics* is complete, synthesising outcomes from all eight working groups and setting out a coordinated twelve-month research and partnership roadmap.
+The final report of the AIM workshop *Addressing Declining Pollinator Populations Through New Mathematics* synthesises outcomes from all eight working groups and sets out a coordinated twelve-month research and partnership roadmap. [Download the final report](resources/AIM-Workshop-Final-Report-2026.pdf).
 
 ### April 2026 — Workshop concludes at AIM
 
 The workshop ran March 30 – April 5, 2026, convening mathematicians, ecologists, data scientists, and commercial beekeeping practitioners. Eight working groups produced the six priority research directions that now define the collaboration's agenda.
 
-### In progress — Phase I infrastructure
+### In progress — Shared research infrastructure
 
-Work is underway on the shared dataset crosswalk, sub-team formation around the six priority areas, and a power analysis for a future large-scale monitoring study.
+Work continues on the dataset crosswalk, sub-team formation around the six priority areas, and power analysis for a future large-scale monitoring study.
