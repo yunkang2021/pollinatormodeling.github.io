@@ -1,0 +1,40 @@
+---
+title: "Mathematical foundations"
+subtitle: "Established results and modelling principles that support the research agenda"
+---
+
+[What is already known]{.eyebrow}
+
+The programme begins from a substantial body of mathematical and biological work. These foundations explain why colony decline is naturally studied through nonlinear dynamics and also mark the limits of what current models can claim.
+
+## Age and task structure
+
+Worker populations are organised by task, with hive bees transitioning to foraging and with forager mortality feeding back on recruitment. The Perry–Barron framework showed how accelerated behavioural maturation can amplify stress and produce rapid failure. This structure provides a compact baseline that can be extended without requiring full age structure in every application.
+
+## Parasite–virus feedbacks
+
+Models of honeybees, *Varroa destructor*, and virus transmission show that parasites act both as a demographic burden and as disease vectors. Nonlinear feedbacks can create multiple long-term outcomes, including healthy colonies, persistent infestation, and collapse. Migration and movement between colonies can alter those outcomes and propagate risk across apiaries.
+
+## Allee effects and thresholds
+
+Colonies require enough workers to brood, forage, defend, and thermoregulate. Below a critical population, those cooperative functions weaken and population loss can become self-reinforcing. In a strong Allee-effect model, persistence is conditional: trajectories above a threshold may approach a positive state, while trajectories below it approach extinction.
+
+This bistability motivates the site's visual language—green for the healthy equilibrium, red for extinction, and amber for the separating threshold—and focuses attention on both state and trajectory.
+
+## Delays and seasonal forcing
+
+Brood development, behavioural maturation, pathogen progression, and treatment effects introduce delays. Temperature and forage vary seasonally and stochastically. Delay differential equations and nonautonomous models are therefore appropriate when the timing of a process changes stability or when a static average hides critical seasonal risk.
+
+## Persistence, resilience, and uncertainty
+
+Persistence theorems clarify conditions under which populations remain uniformly away from extinction, but strong Allee effects require more careful language: survival depends on initial conditions and perturbations relative to a basin boundary. Resilience measures should therefore account for distance to a threshold, recovery rate, and uncertainty in both state and parameters.
+
+## Modelling discipline
+
+::: {.panel}
+[Principle]{.eyebrow}
+
+Use the simplest model that captures the biological mechanism needed for the question. Add structure only when the simpler model cannot reproduce an observation or cannot support the intended decision.
+:::
+
+Models should be evaluated by identifiable parameters, sensitivity to uncertainty, out-of-sample behaviour, and usefulness to field partners—not by complexity alone. See [selected publications](../publications.qmd) for the works summarised here and the [priority agenda](index.qmd) for planned extensions.

@@ -1,0 +1,52 @@
+---
+title: "Open problems"
+subtitle: "Questions for new projects, student research, and cross-disciplinary collaboration"
+---
+
+[Research questions]{.eyebrow}
+
+These problems are deliberately framed at several scales. Some support a focused student project; others require coordinated data and expertise across the collaboration. In each case, progress depends on connecting mathematical claims to measurable colony outcomes.
+
+## Thresholds and resilience
+
+- Which observable quantities provide a reliable estimate of distance to a colony's basin boundary?
+- How do simultaneous nutritional, pathogen, and pesticide stressors shift a collapse threshold compared with their separate effects?
+- When parameters vary seasonally, what definition of resilience best predicts survival through the next high-risk period?
+
+## Early warning
+
+- Which acoustic and thermal features change before manual measures of brood or adult population decline?
+- How much history and what sampling frequency are required for a warning that is useful in practice?
+- Can warning rules transfer across apiaries, climates, equipment, and management styles without complete retraining?
+
+## Intervention and control
+
+- When should a mite treatment be applied if efficacy, resistance, brood stage, cost, and weather are uncertain?
+- How should feeding or split decisions change when the current colony state is only partially observed?
+- What is the simplest decision rule that retains most of the benefit of a fully optimised control policy?
+
+## Climate and landscape
+
+- How do heat waves alter queen laying, worker demography, and thermoregulatory costs over different time scales?
+- When does forage diversity buffer a colony against climate or pesticide stress, and when is abundance the limiting factor?
+- How should colony-level models be coupled to landscape exposure without introducing parameters that cannot be identified?
+
+## Hybrid methods and data integration
+
+- Which latent biological states can be recovered from sparse sensor and inspection data?
+- How can a neural differential equation respect positivity, conservation relationships, and known thresholds?
+- How should predictions communicate uncertainty when datasets differ in variables, resolution, geography, and access conditions?
+
+## Study design
+
+- What colony count and measurement schedule provide enough power to detect stressor interactions rather than marginal effects alone?
+- Which small set of common measurements would make existing datasets substantially more interoperable?
+- How can commercial operations participate in validation without imposing unrealistic collection burdens?
+
+::: {.panel-dark}
+### A criterion for useful progress
+
+An answer should identify what can be measured, what would distinguish competing mechanisms, and what decision or next experiment changes as a result. A mathematically interesting result becomes a collaboration priority when it also improves inference, study design, or management.
+:::
+
+To propose a problem, contribute data, or join a project, see [Contact](../contact.qmd). The [priority agenda](index.qmd) and [roadmap](../roadmap.qmd) provide the broader programme context.

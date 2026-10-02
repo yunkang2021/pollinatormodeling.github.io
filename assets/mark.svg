@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Pollinator Mathematics mark</title>
+  <circle cx="32" cy="32" r="30" fill="#f6f3e9"/>
+  <path d="M32 11c8 7 12 14 12 22 0 11-7 18-12 21-5-3-12-10-12-21 0-8 4-15 12-22z" fill="#1f7a68"/>
+  <path d="M14 24c8-1 14 1 18 8-8 3-15 1-18-8zm36 0c-8-1-14 1-18 8 8 3 15 1 18-8z" fill="#c98712"/>
+  <path d="M25 32h14M25 39h14" stroke="#f6f3e9" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="24" r="5" fill="#a63d3a"/>
+</svg>

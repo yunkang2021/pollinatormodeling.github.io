@@ -1,0 +1,38 @@
+---
+title: "Working groups"
+subtitle: "A shared structure for connecting theory, data, biology, and field decisions"
+---
+
+[How the collaboration works]{.eyebrow}
+
+The 2026 AIM workshop used eight working groups to develop the research agenda. The ongoing collaboration consolidates that work into six connected research streams so that each project has a clear mathematical question, biological interpretation, data pathway, and practical audience.
+
+| Research stream | Core work | Near-term output |
+|---|---|---|
+| Baseline colony dynamics | Reference model and modular stressor extensions | Technical report and reproducible implementation |
+| Multi-stressor resilience | Bifurcations, multiple attractors, thresholds | Stressor-interaction and resilience analyses |
+| Early warning analytics | Sensor time series and colony records | Pilot study and validated warning candidates |
+| Intervention optimisation | Treatment, feeding, splitting, overwintering | Testable decision rules and optimisation paper |
+| Climate–landscape integration | Weather, forage, spatial exposure | Climate sensitivity and landscape-linked models |
+| Hybrid mechanistic–AI | State estimation and data assimilation | Reusable modelling and uncertainty pipeline |
+
+## Cross-cutting responsibilities
+
+Each stream shares four responsibilities:
+
+1. **Biological grounding.** State the mechanism, scale, and assumptions with field and laboratory partners.
+2. **Data stewardship.** Record variable definitions, temporal resolution, provenance, access constraints, and missingness in the shared crosswalk.
+3. **Mathematical validation.** Separate structural conclusions from parameter-dependent results and report uncertainty.
+4. **Translation.** Define the management or research decision the output is intended to improve.
+
+## Coordination rhythm
+
+Sub-teams work on focused milestones, with cross-stream sessions used to reconcile shared variables, compare model structures, and review results that affect more than one project. Code, documentation, and public outputs are linked through the [data and software](../data.qmd) page.
+
+::: {.panel}
+[Participation]{.eyebrow}
+
+Contributors may join a research stream for a specific dataset, method, or field question; participation does not require involvement in every activity. Current workshop participants and areas of expertise are listed on the [People](../people.qmd) page.
+:::
+
+The [roadmap](../roadmap.qmd) provides the shared phases and deliverables. Questions suitable for new collaborations are collected under [open problems](open-problems.qmd).

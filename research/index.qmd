@@ -1,0 +1,52 @@
+---
+title: "Priority research agenda"
+subtitle: "Six coordinated directions for mathematics that can anticipate and prevent pollinator decline"
+---
+
+[Research programme]{.eyebrow}
+
+The collaboration is organised around six connected priorities. Together they move from a shared mechanistic foundation to field-ready decisions: define healthy colony dynamics, quantify loss of resilience, detect warning signals, optimise interventions, incorporate climate and landscape, and connect mechanistic models with modern data methods.
+
+## Baseline colony dynamics {#baseline}
+
+A common reference model is essential for comparing assumptions and combining results across teams. The starting point is a parsimonious worker-population framework, informed by the Perry–Barron model, that represents recruitment, behavioural maturation, forager loss, and feedback between hive bees and foragers.
+
+The model will be extended modularly for *Varroa* mites, viruses, nutrition, pesticide exposure, queen performance, and weather. Each extension should answer a defined biological question and be tested against the simplest model able to reproduce the observation.
+
+## Multi-stressor resilience {#resilience}
+
+Colony losses rarely have a single cause. The mathematical task is to determine how interacting stressors reshape equilibria, basins of attraction, and tipping thresholds. Bifurcation analysis and multi-attractor theory can identify parameter combinations that move a colony from recoverable stress toward irreversible collapse.
+
+Priority outputs include interpretable resilience measures, stressor-interaction maps, and early warning quantities linked to mechanisms rather than correlations alone.
+
+## Early warning analytics {#early-warning}
+
+In-hive acoustics, temperature, humidity, weather, inspections, and treatment records create multiscale time series with missing and irregular observations. The goal is to identify signals that precede brood stress or collapse early enough to change management.
+
+Initial work will combine time-series analysis, state estimation, clustering, and supervised learning with mechanistic expectations. Candidate signals must be evaluated across colonies and seasons to distinguish general warnings from apiary-specific patterns.
+
+## Intervention optimisation {#optimisation}
+
+Beekeepers choose when to treat mites, feed colonies, split hives, replace queens, and prepare for winter under uncertainty and cost constraints. Optimal control and decision models will compare strategies using both biological outcomes and operational costs.
+
+The central deliverable is not a more elaborate dashboard, but simple and testable decision rules that remain useful under realistic measurement error.
+
+## Climate–landscape integration {#climate}
+
+Temperature extremes, thermoregulatory energy costs, forage phenology, and pesticide exposure operate across scales larger than a single hive. Stochastic and spatial models will connect colony dynamics to weather and landscape quality, including resources available through Beescape and related platforms.
+
+This direction will identify when local hive management can compensate for environmental stress and when landscape-level intervention is necessary.
+
+## Hybrid mechanistic–AI methods {#hybrid}
+
+Mechanistic models provide structure and causal interpretation; data-driven methods provide flexibility for heterogeneous sensor and field data. Neural differential equations, data assimilation, latent-state estimation, and uncertainty quantification can combine those strengths without treating either approach as sufficient alone.
+
+::: {.panel}
+[Shared standard]{.eyebrow}
+
+Every direction should document assumptions, data provenance, uncertainty, validation limits, and the practical decision its results are intended to support. Reproducible code and a shared dataset crosswalk are therefore research outputs, not administrative extras.
+:::
+
+## How the priorities connect
+
+The [mathematical foundations](foundations.qmd) page summarises the results on which this programme builds. [Working groups](working-groups.qmd) describes how the collaboration is organised, while [open problems](open-problems.qmd) identifies questions suitable for new projects and collaborators. Milestones and proposed deliverables are maintained in the [roadmap](../roadmap.qmd).
