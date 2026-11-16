@@ -10,18 +10,47 @@ subtitle: "Work underpinning and emerging from the collaboration"
 - AIM Workshop Participants (2026). *Addressing Declining Pollinator Populations Through New Mathematics: Workshop Final Report*. American Institute of Mathematics, March 30–April 5, 2026. [Download the final report](resources/AIM-Workshop-Final-Report-2026.pdf).
 - *Mathematical Models of Pollinator Populations: A Multi-Scale Review and Research Agenda for Honey Bees and Beyond* (working manuscript, October 2, 2026). The manuscript synthesises five thematic pillars, identifies sixteen open mathematical problems and two cross-cutting methodological questions, and sets out a staged research programme. Authorship, affiliations, and author contributions remain under confirmation; this file should not yet be cited as a final publication. [Download the working manuscript](resources/Mathematical-Models-of-Pollinator-Populations-Working-Manuscript-2026.pdf).
 
-## Foundations of honeybee colony modelling
+## Reviews and synthesis
 
-- Perry, C.J., Søvik, E., Myerscough, M.R., Barron, A.B. (2015). Rapid behavioral maturation accelerates failure of stressed honey bee colonies. *PNAS*, 112(11), 3427–3432.
-- Kang, Y., Blanco, K., Davies, T., Wang, Y., DeGrandi-Hoffman, G. (2016). Disease dynamics of honeybees with *Varroa destructor* as parasite and virus vector. *Mathematical Biosciences*, 275, 71–92.
-- Messan, K., DeGrandi-Hoffman, G., Castillo-Chavez, C., Kang, Y. (2017). Migration effects on population dynamics of the honeybee–mite interactions. *Mathematical Modelling of Natural Phenomena*, 12(2), 84–115.
-- Messan, M.R., Page Jr, R.E., Kang, Y. (2018). Effects of vitellogenin in age polyethism and population dynamics of honeybees. *Ecological Modelling*, 388, 88–107.
+- Chen, J., DeGrandi-Hoffman, G., Ratti, V., Kang, Y. (2021). Review on mathematical modeling of honeybee population dynamics. *Mathematical Biosciences and Engineering*, 18(6), 9606–9650. [DOI](https://doi.org/10.3934/mbe.2021471).
+
+## Honey bee colony demography and task allocation
+
+- Schmickl, T., Crailsheim, K. (2007). HoPoMo: A model of honeybee intracolonial population dynamics and resource management. *Ecological Modelling*, 204(1–2), 219–245. [DOI](https://doi.org/10.1016/j.ecolmodel.2007.01.001).
+- Khoury, D.S., Myerscough, M.R., Barron, A.B. (2011). A quantitative model of honey bee colony population dynamics. *PLOS ONE*, 6(4), e18491. [DOI](https://doi.org/10.1371/journal.pone.0018491).
+- Khoury, D.S., Barron, A.B., Myerscough, M.R. (2013). Modelling food and population dynamics in honey bee colonies. *PLOS ONE*, 8(5), e59084. [DOI](https://doi.org/10.1371/journal.pone.0059084).
+- Perry, C.J., Søvik, E., Myerscough, M.R., Barron, A.B. (2015). Rapid behavioral maturation accelerates failure of stressed honey bee colonies. *Proceedings of the National Academy of Sciences*, 112(11), 3427–3432. [DOI](https://doi.org/10.1073/pnas.1422089112).
+- Rodriguez Messan, M., Page Jr, R.E., Kang, Y. (2018). Effects of vitellogenin in age polyethism and population dynamics of honeybees. *Ecological Modelling*, 388, 88–107. [DOI](https://doi.org/10.1016/j.ecolmodel.2018.09.011).
+- Chen, J., Guo, X., Charbonneau, D., Azizi, A., Fewell, J.H., Kang, Y. (2024). Dynamics of information flow and task allocation of social insect colonies: Impacts of spatial interactions and task switching. *Bulletin of Mathematical Biology*, 86(5), 50. [DOI](https://doi.org/10.1007/s11538-024-01280-6).
+
+## Colony collapse, parasites, and interacting stressors
+
+- Betti, M.I., Wahl, L.M., Zamir, M. (2014). Effects of infection on honey bee population dynamics: A model. *PLOS ONE*, 9(10), e110237. [DOI](https://doi.org/10.1371/journal.pone.0110237).
+- Becher, M.A., Grimm, V., Thorbek, P., Horn, J., Kennedy, P.J., Osborne, J.L. (2014). BEEHAVE: A systems model of honeybee colony dynamics and foraging to explore multifactorial causes of colony failure. *Journal of Applied Ecology*, 51(2), 470–482. [DOI](https://doi.org/10.1111/1365-2664.12222).
+- Kang, Y., Blanco, K., Davis, T., Wang, Y., DeGrandi-Hoffman, G. (2016). Disease dynamics of honeybees with *Varroa destructor* as parasite and virus vector. *Mathematical Biosciences*, 275, 71–92. [DOI](https://doi.org/10.1016/j.mbs.2016.02.012).
+- Dennis, B., Kemp, W.P. (2016). How hives collapse: Allee effects, ecological resilience, and the honey bee. *PLOS ONE*, 11(2), e0150055. [DOI](https://doi.org/10.1371/journal.pone.0150055).
+- Messan, K., DeGrandi-Hoffman, G., Castillo-Chavez, C., Kang, Y. (2017). Migration effects on population dynamics of the honeybee–mite interactions. *Mathematical Modelling of Natural Phenomena*, 12(2), 84–115. [DOI](https://doi.org/10.1051/mmnp/201712206).
+- Booton, R.D., Iwasa, Y., Marshall, J.A.R., Childs, D.Z. (2017). Stress-mediated Allee effects can cause the sudden collapse of honey bee colonies. *Journal of Theoretical Biology*, 420, 213–219. [DOI](https://doi.org/10.1016/j.jtbi.2017.03.009).
+- Chen, J., Fisher II, A., Harrison, J.F., DeGrandi-Hoffman, G., Fewell, J.H., Kang, Y. (2025). Modeling pesticide impacts on honey bee dynamics from mathematical and experimental integration. *Journal of Theoretical Biology*, 611, 112167. [DOI](https://doi.org/10.1016/j.jtbi.2025.112167).
+
+## Bumble bees and broader pollinator models
+
+- Crone, E.E., Williams, N.M. (2016). Bumble bee colony dynamics: Quantifying the importance of land use and floral resources for colony growth and queen production. *Ecology Letters*, 19(4), 460–468. [DOI](https://doi.org/10.1111/ele.12581).
+- Banks, H.T., Banks, J.E., Bommarco, R., Laubmeier, A.N., Myers, N.J., Rundlöf, M., Tillman, K. (2017). Modeling bumble bee population dynamics with delay differential equations. *Ecological Modelling*, 351, 14–23. [DOI](https://doi.org/10.1016/j.ecolmodel.2017.02.011).
+- Becher, M.A., Twiston-Davies, G., Penny, T.D., Goulson, D., Rotheray, E.L., Osborne, J.L. (2018). Bumble-BEEHAVE: A systems model for exploring multifactorial causes of bumblebee decline at individual, colony, population and community level. *Journal of Applied Ecology*, 55(6), 2790–2801. [DOI](https://doi.org/10.1111/1365-2664.13165).
+- Capera-Aragones, P., Mariño, J., Hurford, A., Tyson, R.C., Foxall, E. (2025). Whole-colony dynamic energy budget model for bumble bees: Assessing the impact of wildflower patches on crop pollination. *Bulletin of Mathematical Biology*, 87, 83. [DOI](https://doi.org/10.1007/s11538-025-01448-8).
+
+## Plant–pollinator networks and community resilience
+
+- Bastolla, U., Fortuna, M.A., Pascual-García, A., Ferrera, A., Luque, B., Bascompte, J. (2009). The architecture of mutualistic networks minimizes competition and increases biodiversity. *Nature*, 458(7241), 1018–1020. [DOI](https://doi.org/10.1038/nature07950).
+- Valdovinos, F.S., Moisset de Espanés, P., Flores, J.D., Ramos-Jiliberto, R. (2013). Adaptive foraging allows the maintenance of biodiversity of pollination networks. *Oikos*, 122(6), 907–917. [DOI](https://doi.org/10.1111/j.1600-0706.2012.20830.x).
+- Lever, J.J., van Nes, E.H., Scheffer, M., Bascompte, J. (2014). The sudden collapse of pollinator communities. *Ecology Letters*, 17(3), 350–359. [DOI](https://doi.org/10.1111/ele.12236).
 
 ## Mathematical methods
 
-- Thieme, H.R. (1993). Persistence under relaxed point-dissipativity, with application to an endemic model. *SIAM Journal on Mathematical Analysis*, 24(2), 407–435.
+- Thieme, H.R. (1993). Persistence under relaxed point-dissipativity, with application to an endemic model. *SIAM Journal on Mathematical Analysis*, 24(2), 407–435. [DOI](https://doi.org/10.1137/0524026).
 
-## Nutrition, toxicology, and landscape
+## Nutrition, toxicology, and landscape context
 
 - Moore, E., de Sousa, R.T., Felsinger, S., Arnesen, J.A., Dyekjær, J.D., Farman, D.I., Gonçalves, R.F., Stevenson, P.C., Borodina, I., Wright, G.A. (2025). Engineered yeast provides rare but essential pollen sterols for honeybees. *Nature*, 646(8084), 365–371.
 - Gekière, A., Breuer, L., Dorio, L., Vanderplanck, M., Michez, D. (2024). Lethal effects and sex-specific tolerance of copper and cadmium in the buff-tailed bumble bee. *Environmental Toxicology and Pharmacology*, 110, 104546.
@@ -34,5 +63,5 @@ The working review manuscript completes the first synthesis milestone in the [Ph
 ::: {.panel}
 [Maintaining this page]{.eyebrow}
 
-Add finalized publications to `references.bib` and list them here. Working manuscripts should be clearly identified until authorship and submission details are confirmed.
+This is a selected bibliography rather than an exhaustive review. Add finalized publications to `references.bib` and list them under the relevant modelling scale here. Working manuscripts should be clearly identified until authorship and submission details are confirmed.
 :::
