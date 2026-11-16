@@ -62,7 +62,7 @@ website:
     center: |
       Originating from the 2026 AIM workshop<br>*Addressing Declining Pollinator Populations Through New Mathematics*
     right: |
-      [Contact](contact.qmd) · [GitHub](https://github.com/yunkang2021/pollinatormodeling.github.io)
+      [Contact](/pollinatormodeling.github.io/contact.html) · [GitHub](https://github.com/yunkang2021/pollinatormodeling.github.io)
 
 format:
   html:
