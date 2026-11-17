@@ -1,6 +1,6 @@
 ---
-title: "Data & software"
-subtitle: "Datasets, models, and tools supporting the collaboration"
+title: "Data, software & resources"
+subtitle: "Datasets, models, and trusted tools supporting the collaboration"
 ---
 
 [Shared infrastructure]{.eyebrow}
@@ -26,12 +26,30 @@ Building shared data and code infrastructure is the first phase of the [roadmap]
 
 Code released by the collaboration will be published in this GitHub organisation with open licences and reproducible environments.
 
-## External resources
+## Pollinator research and landscape tools
 
-- [**Beescape**](https://beescape.psu.edu/) — landscape quality assessment for pollinators (Penn State).
-- [**BeeSpatial**](https://beescape.org/) — spatial pollinator habitat and forage tools.
-- **BEEPOP / VarroaPop** — USDA honeybee colony population simulation models.
-- [**American Institute of Mathematics**](https://aimath.org/) — host of the originating 2026 workshop.
+- [**Penn State Center for Pollinator Research**](https://pollinators.psu.edu/) — research, extension, diagnostic, classroom, image, and decision-support resources for pollinator health.
+- [**Beescape**](https://pollinators.psu.edu/resources-tools/beescape) — Penn State's GIS decision-support tool for exploring seasonal forage, nesting resources, insecticide load, weather, and pollination value around a location.
+- [**BeeSpatial**](https://pollinators.psu.edu/research/beeshiny) — researcher-focused access to county-level climate, land-use, and habitat-quality indicators across the continental United States.
+
+## Models, software, and federal data
+
+- [**BEEPOP+**](https://beepop.ars.usda.gov/) — USDA ARS web model for simulating honey bee colony demography, weather, *Varroa*, management, and pesticide scenarios.
+- [**BEEHAVE**](https://beehave-model.net/) — open NetLogo systems model linking within-hive colony dynamics with foraging in dynamic landscapes and multiple stressors.
+- [**USDA National Agricultural Library: Apiculture and Beekeeping**](https://www.nal.usda.gov/animal-health-and-welfare/beekeeping) — gateway to USDA bee reports, surveys, Ag Data Commons records, federal research programs, and modeling tools.
+- [**USGS Bee Lab**](https://www.usgs.gov/labs/usgs-bee-lab-at-the-eastern-ecological-science-center) — native-bee inventory, monitoring, identification, survey design, occurrence records, images, and bee–plant association resources.
+
+## Monitoring and community science
+
+- [**Bumble Bee Watch**](https://www.bumblebeewatch.org/) — submit and explore expert-reviewed bumble bee observations to support North American distribution and conservation research.
+- [**USGS Bee Inventories and Monitoring Projects**](https://www.usgs.gov/labs/native-bee-inventory-and-monitoring-lab/bee-inventories-and-monitoring-projects) — examples, protocols, and partnerships for bee inventory and monitoring projects.
+
+## Conservation, risk, and education
+
+- [**EPA Pollinator Protection**](https://www.epa.gov/pollinator-protection) — pesticide risk assessment, mitigation, managed pollinator protection plans, best practices, and bee-kill reporting resources.
+- [**Xerces Pollinator Conservation Resource Center**](https://www.xerces.org/pollinator-resource-center) — region-specific plant lists, habitat-establishment guidance, publications, and seed-source information.
+- [**Pollinator Partnership Resources**](https://www.pollinator.org/resources) — ecoregional planting guides, bee identification materials, education resources, habitat tools, and grant information.
+- [**American Institute of Mathematics**](https://aimath.org/) — host of the 2026 workshop that launched this collaboration.
 
 ::: {.panel}
 [Contributing data]{.eyebrow}
