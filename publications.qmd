@@ -72,6 +72,12 @@ These papers provide external foundations and comparison models for the collabor
 - Lever, J.J., van Nes, E.H., Scheffer, M., Bascompte, J. (2014). The sudden collapse of pollinator communities. *Ecology Letters*, 17(3), 350–359. [DOI](https://doi.org/10.1111/ele.12236).
 - Thieme, H.R. (1993). Persistence under relaxed point-dissipativity, with application to an endemic model. *SIAM Journal on Mathematical Analysis*, 24(2), 407–435. [DOI](https://doi.org/10.1137/0524026).
 
+## Related biological context
+
+- Moore, E., de Sousa, R.T., Felsinger, S., Arnesen, J.A., Dyekjær, J.D., Farman, D.I., Gonçalves, R.F., Stevenson, P.C., Borodina, I., Wright, G.A. (2025). Engineered yeast provides rare but essential pollen sterols for honeybees. *Nature*, 646(8084), 365–371.
+- Gekière, A., Breuer, L., Dorio, L., Vanderplanck, M., Michez, D. (2024). Lethal effects and sex-specific tolerance of copper and cadmium in the buff-tailed bumble bee. *Environmental Toxicology and Pharmacology*, 110, 104546.
+- Nunes, M.R., Veum, K.S., Parker, P.A., Holan, S.H., Karlen, D.L., Amsili, J.P., Van Es, H.M., Wills, S.A., Seybold, C.A., Moorman, T.B. (2021). The soil health assessment protocol and evaluation applied to soil organic carbon. *Soil Science Society of America Journal*, 85(4), 1196–1213.
+
 ## In development
 
 The working review manuscript completes the first synthesis milestone in the [Phase II roadmap](roadmap.qmd). The pilot early warning study, climate sensitivity paper, intervention optimisation paper, and baseline colony model technical report remain in development.
