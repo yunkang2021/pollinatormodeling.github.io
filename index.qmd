@@ -49,10 +49,10 @@ We build the dynamical systems, stochastic models, optimal control frameworks, a
 
 ::: {.stats}
 ::: {.stat}
-[80%]{.n}[of the world's food crops depend on bee pollination]{.l}
+[75%]{.n}[of global food crop types depend at least in part on pollinators]{.l}
 :::
 ::: {.stat}
-[\$14B]{.n}[annual contribution to U.S. seed and crop production]{.l}
+[\$18B]{.n}[minimum annual value added to U.S. agriculture by managed honey bee pollination]{.l}
 :::
 ::: {.stat .warn}
 [30–50%]{.n}[recent annual U.S. colony losses, against a ~10% baseline]{.l}
@@ -60,6 +60,10 @@ We build the dynamical systems, stochastic models, optimal control frameworks, a
 ::: {.stat}
 [7]{.n}[stressor categories that must be modelled jointly, not separately]{.l}
 :::
+:::
+
+::: {.meta}
+Context figures: [FAO Global Action on Pollination Services](https://www.fao.org/pollination/about/) and [USDA ARS Honey Bee Health](https://www.ars.usda.gov/oc/br/ccd/index/).
 :::
 
 ## Why mathematics, and why now

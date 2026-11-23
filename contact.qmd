@@ -27,4 +27,4 @@ If you hold colony monitoring data and would consider contributing it to the sha
 
 ## Acknowledgements
 
-This collaboration originated at a workshop hosted by the [American Institute of Mathematics](https://aimath.org/), March 30 – April 5, 2026. Prior work by participants has been supported by NSF-DMS awards 1313312, 1716802, 2052820 and 2602341, and by the USDA Agricultural Research Service.
+This collaboration originated at the [American Institute of Mathematics workshop](https://www.aimath.org/pastworkshops/pollinatordecline.html), March 30 – April 3, 2026. Prior work by participants has been supported by NSF-DMS awards 1313312, 1716802, 2052820 and 2602341, and by the USDA Agricultural Research Service.

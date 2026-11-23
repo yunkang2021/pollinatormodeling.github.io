@@ -7,6 +7,10 @@ toc: false
 
 Announcements, milestones, meetings, and outputs from the collaboration.
 
+### November 2026 — NSF award supports new pollinator mathematics
+
+NSF Award [2602341](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2602341), *New Mathematics for Pollinator Decline: From Colony Dynamics to Sustainable Agroecosystems*, supports Yun Kang and Jon Harrison's research at Arizona State University from 2026 through 2029. The project develops mathematical theory and AI-enhanced models linking colony resilience, interacting stressors, spatial agroecosystems, and adaptive management.
+
 ### October 2026 — Review manuscript prepared
 
 A working manuscript, *Mathematical Models of Pollinator Populations: A Multi-Scale Review and Research Agenda for Honey Bees and Beyond*, now synthesises the literature across five thematic pillars, identifies sixteen open mathematical problems and two cross-cutting methodological questions, and connects them to the collaboration's staged research agenda. Authorship and affiliations are still being confirmed, so the document is posted as a working manuscript rather than a final publication. [Download the manuscript](resources/Mathematical-Models-of-Pollinator-Populations-Working-Manuscript-2026.pdf).
@@ -17,7 +21,7 @@ The final report of the AIM workshop *Addressing Declining Pollinator Population
 
 ### April 2026 — Workshop concludes at AIM
 
-The workshop ran March 30 – April 5, 2026, convening mathematicians, ecologists, data scientists, and commercial beekeeping practitioners. Eight working groups produced the six priority research directions that now define the collaboration's agenda.
+The [workshop](https://www.aimath.org/pastworkshops/pollinatordecline.html) ran March 30 – April 3, 2026, convening mathematicians, ecologists, data scientists, and commercial beekeeping practitioners. Eight working groups produced the six priority research directions that now define the collaboration's agenda.
 
 ### In progress — Shared research infrastructure
 

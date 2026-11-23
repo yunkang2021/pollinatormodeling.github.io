@@ -7,7 +7,7 @@ subtitle: "Workshop-participant scholarship and selected related literature"
 
 ## Reports and manuscripts
 
-- AIM Workshop Participants (2026). *Addressing Declining Pollinator Populations Through New Mathematics: Workshop Final Report*. American Institute of Mathematics, March 30–April 5, 2026. [Download the final report](resources/AIM-Workshop-Final-Report-2026.pdf).
+- AIM Workshop Participants (2026). *Addressing Declining Pollinator Populations Through New Mathematics: Workshop Final Report*. American Institute of Mathematics, March 30–April 3, 2026. [Workshop page](https://www.aimath.org/pastworkshops/pollinatordecline.html) · [Download the final report](resources/AIM-Workshop-Final-Report-2026.pdf).
 - *Mathematical Models of Pollinator Populations: A Multi-Scale Review and Research Agenda for Honey Bees and Beyond* (working manuscript, October 2, 2026). The manuscript synthesises five thematic pillars, identifies sixteen open mathematical problems and two cross-cutting methodological questions, and sets out a staged research programme. Authorship, affiliations, and author contributions remain under confirmation; this file should not yet be cited as a final publication. [Download the working manuscript](resources/Mathematical-Models-of-Pollinator-Populations-Working-Manuscript-2026.pdf).
 
 ## Publications by workshop participants
@@ -42,6 +42,7 @@ The publications below include at least one participant listed on the [People](p
 - Rajagopalan, K., DeGrandi-Hoffman, G., Pruett, H., Jones, V.P., Corby-Harris, V., Pireaud, J., Curry, R., Hopkins, B.K., Northfield, T.D. (2024). Warmer autumns and winters could reduce honey bee overwintering survival with potential risks for pollination services. *Scientific Reports*, 14, 5410. [DOI](https://doi.org/10.1038/s41598-024-55327-8).
 - Chen, J., Fisher II, A., Harrison, J.F., DeGrandi-Hoffman, G., Fewell, J.H., Kang, Y. (2025). Modeling pesticide impacts on honey bee dynamics from mathematical and experimental integration. *Journal of Theoretical Biology*, 611, 112167. [DOI](https://doi.org/10.1016/j.jtbi.2025.112167).
 - Chen, J., Fisher II, A., DeGrandi-Hoffman, G., Ozturk, C., Smith, B.H., Fewell, J.H., Kang, Y., Maxwell, K., Overcash, K., Chahal, K., Harrison, J.F. (2026). Negative effects of excessive heat on colony thermoregulation and population dynamics in honeybees. *Ecological and Evolutionary Physiology*, 99(1), 1–18. [DOI](https://doi.org/10.1086/739493).
+- Harrison, J.F., Chen, J., Glass, J.R., Ozturk, C., Smith, B.H., Fewell, J.H., DeGrandi-Hoffman, G., Kang, Y., Sorensen, B., Rothweil, D., DesJardins, N.S., Fisher II, A. (2026). Limits and mechanisms of honey bee colonial thermoregulation in the heat. *Journal of Experimental Biology*, 229(14), jeb252357. [DOI](https://doi.org/10.1242/jeb.252357).
 - Li, K., Grab, H., Buckner, R.L., Houtman, C., Kammerer, M., McLaughlin, G.M., Ostroski, C., Douglas, M.R., Goslee, S.C., Khanna, V., Lonsdorf, E., Robinson, G.E., Grozinger, C.M. (2026). Beescape and BeeSpatial: Making multi-scale environmental indicators of bee habitat accessible across audiences. *Environmental and Sustainability Indicators*, 101381. [DOI](https://doi.org/10.1016/j.indic.2026.101381).
 
 ## Selected related literature
